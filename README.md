@@ -1,2 +1,3 @@
 # AIR-QUALITY-INDEX-PREDICTION
 AIR QUALITY INDEX PREDICTION(using linear regression)
+-with Data Science/ML
